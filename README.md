@@ -140,14 +140,16 @@ We also done the experiment to determine the simulation-synthesis mismatch of fi
 <img width="1589" height="647" alt="Screenshot 2025-09-27 182555" src="https://github.com/user-attachments/assets/d11555d5-4d0a-48ae-bf5a-b742032c00e6" />
 
 During this session we also learned about the looping constructs which involves for loop which is used for evaluating the expression and the Generate for loop whcih is used for instantiationg the hardware. In this we generate Mux and Demux.
+
         # Demux generation
-        <img width="1317" height="700" alt="Screenshot 2025-09-27 190558" src="https://github.com/user-attachments/assets/e8d2e3e3-3bde-46c2-9266-daf84e015eef" />
+
+<img width="1317" height="700" alt="Screenshot 2025-09-27 190558" src="https://github.com/user-attachments/assets/e8d2e3e3-3bde-46c2-9266-daf84e015eef" />
 <img width="1588" height="639" alt="Screenshot 2025-09-27 191123" src="https://github.com/user-attachments/assets/28a5d87a-71e8-425e-9202-972b51fdbd19" />
 <img width="1587" height="624" alt="Screenshot 2025-09-27 191323" src="https://github.com/user-attachments/assets/7a5f66
 <img width="598" height="555" alt="Screenshot 2025-09-27 191458" src="https://github.com/user-attachments/assets/9ef7aeb7-2279-46b6-9040-948b56ee5ec1" />
-82-4f2b-4507-a0ff-7bb566d6c36a" />
 
 We also done the Ripple carry adder of 8-bit generation using the generate-for loop.
+
 <img width="599" height="519" alt="Screenshot 2025-09-27 194935" src="https://github.com/user-attachments/assets/21f0379e-709b-4953-8629-629ff88a709d" />
 <img width="599" height="519" alt="Screenshot 2025-09-27 194935" src="https://github.com/user-attachments/assets/24301387-7804-45fd-9538-2e7f7034ff5f" />
 <img width="1484" height="525" alt="Screenshot 2025-09-27 195151" src="https://github.com/user-attachments/assets/ead344d3-9169-4ce7-bb15-401463efb0f4" />
