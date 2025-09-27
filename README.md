@@ -62,11 +62,15 @@ In this we also synthesize the submodule level.
 After this, we learned about the basics of flip-flop and the variation in output depending on the synchronous/asynchronous set/reset. Following are the attachments of gtkwave wave of the flip-flop working under different conditions.
 
 <img width="1819" height="427" alt="Screenshot 2025-09-26 070628" src="https://github.com/user-attachments/assets/fffd240e-6749-46ac-bfb5-e9f81bd945b8" />
+
 <img width="1813" height="422" alt="Screenshot 2025-09-26 070912" src="https://github.com/user-attachments/assets/8718583f-1191-4e6f-a66e-c75e150450e6" />
 
 <img width="1836" height="418" alt="Screenshot 2025-09-26 071126" src="https://github.com/user-attachments/assets/e3b74634-92aa-4297-bcf2-76d3f3dc9726" />
+
 <img width="1849" height="313" alt="Screenshot 2025-09-26 072832" src="https://github.com/user-attachments/assets/f3066bb9-3436-4e84-be90-8532cf80151d" />
+
 <img width="1846" height="317" alt="Screenshot 2025-09-26 073031" src="https://github.com/user-attachments/assets/4cb37311-ff1a-40b7-8a96-0346b717f5b5" />
+
 <img width="1853" height="339" alt="Screenshot 2025-09-26 073219" src="https://github.com/user-attachments/assets/85fabcb7-5817-4069-9184-a7620810d311" />
 
 We also look at the special cases of multiply where only the last bit is appending with 0 when multiply by even factor while when there is odd factor there is only replica of same input.
