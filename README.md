@@ -166,6 +166,7 @@ We also done the experiment to determine the simulation-synthesis mismatch of fi
 
 
   2. Case statements executes sequentially where nothing is prioritize. Different caveats of case statement includes the incomplete case statement, partial assignment and the overlapping cases.
+     
            # Complete case statement
      
 <img width="779" height="258" alt="Screenshot 2025-09-27 171644" src="https://github.com/user-attachments/assets/346ec103-0da6-4795-8dae-d91ff4f79de1" />
