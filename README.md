@@ -21,7 +21,7 @@ Day 1 deals with the introduction of basics simulator, design, testbench and the
      
      gtkwave tb_good_mux.vcd
      
-     <img width="1920" height="1080" alt="Screenshot 2025-09-25 022247" src="https://github.com/user-attachments/assets/f292da63-4e25-40c7-b6ec-eb4ce4e457b1" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-25 022247" src="https://github.com/user-attachments/assets/f292da63-4e25-40c7-b6ec-eb4ce4e457b1" />
      
      3. Yosys: Yosys is invoke using: 
      
