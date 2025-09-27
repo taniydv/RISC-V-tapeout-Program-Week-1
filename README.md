@@ -207,7 +207,7 @@ During this session we also learned about the looping constructs which involves 
 We also done the Ripple carry adder of 8-bit generation using the generate-for loop.
 
 <img width="599" height="519" alt="Screenshot 2025-09-27 194935" src="https://github.com/user-attachments/assets/21f0379e-709b-4953-8629-629ff88a709d" />
-<img width="599" height="519" alt="Screenshot 2025-09-27 194935" src="https://github.com/user-attachments/assets/24301387-7804-45fd-9538-2e7f7034ff5f" />
+
 <img width="1484" height="525" alt="Screenshot 2025-09-27 195151" src="https://github.com/user-attachments/assets/ead344d3-9169-4ce7-bb15-401463efb0f4" />
 
 # Acknowledgement
