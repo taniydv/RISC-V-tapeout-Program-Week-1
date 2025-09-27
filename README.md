@@ -47,7 +47,7 @@ Netlist is shown as:
 
 ### DAY 2: Introduction to .lib
 
-Day 2 deals with the introduction of librsry file and the information it contains. "sky130fd_sc_hd__tt_025c_1v80.lib" this is the library file containing the parameters like process variations, voltage and temperature. 
+Day 2 deals with the introduction of library file and the information it contains. "sky130fd_sc_hd__tt_025c_1v80.lib" this is the library file containing the parameters like process variations, voltage and temperature. 
 
 <img width="635" height="993" alt="Screenshot 2025-09-25 034228" src="https://github.com/user-attachments/assets/2ed22908-7bf6-48b3-86ea-7e813e52bdf7" />
 
